@@ -1,7 +1,6 @@
-# Appengine-Java
+# Google AppEngine Application Development for Java®
 With Google Cloud Platform, we can build, test, and deploy applications on Google's highly-scalable​ ​ and​ ​ reliable​ ​ infrastructure​ ​ for​ ​ your​ ​ web,​ ​ mobile,​ ​ and​ ​ backend​ ​ solutions.
 
-# Google AppEngine Application Development for Java®
 The code for the samples is contained in individual folders on this repository.
 
 # Requirements & Versions
